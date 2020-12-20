@@ -3,7 +3,8 @@ Andy Chen
 Adi Pall-Pareek
 
 Juan F. Atehortúa
-DCS
+
+DCS 1020
 # An Introspective look into the computational tools used in reading at scale
 ## Contributions
 ### Juan F. Atehortúa
