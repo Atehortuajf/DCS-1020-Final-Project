@@ -1,5 +1,7 @@
 Andy Chen
+
 Adi Pall-Pareek
+
 Juan F. Atehortúa
 DCS
 # An Introspective look into the computational tools used in reading at scale
